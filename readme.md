@@ -1,6 +1,6 @@
-#####Laravel Version: 5.7.19
+##### Laravel Version: 5.7.19
 
-#What is this?
+# What is this?
 
 This is a very small kick start project to work with laravel passport.
 Download it, follow the install instructions and you are ready to register, login, logout and return the logged in user data.
