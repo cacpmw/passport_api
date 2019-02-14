@@ -116,7 +116,7 @@ Here are some **example** instructions as to register and login users on the api
           }
      
 
-#Swagger
+# Swagger
 
 Swagger is installed in this application to provide auto generated documentation page.
 
